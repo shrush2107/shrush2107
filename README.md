@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrushti Agarwal</h1>
-<h3 align="center">I'm a MSCS student with a passion for Data Science, Machine Learning and Data Visualization. 📊🤖 Exploring the world of data to uncover insights and build intelligent system</h3>
+<h3 align="center">I'm an MSCS student with a passion for Data Science, Machine Learning and Data Visualization. 📊🤖 Exploring the world of data to uncover insights and build intelligent system</h3>
 
 - 🔭 I’m currently working on [Machine Learning Algorithms from Scratch](https://github.com/shrush2107/ML_from_Scratch)
 
