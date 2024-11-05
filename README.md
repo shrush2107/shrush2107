@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrushti Agarwal</h1>
 <h3 align="center">I'm an MSCS student with a passion for Data Science, Machine Learning and Data Visualization. 📊🤖 Exploring the world of data to uncover insights and build intelligent system</h3>
 
-- 🌱 I’m currently learning **about Advanced topics in Machine Learning. I am also interested in learning about GenAI and LLM. If you have some good resources and intersenting projects that we can work on together, feel free to contact me**
+- 🌱 I’m currently learning **about NLP, GenAI and LLMs.**
 
 - 📫 How to reach me **agarwal.shrus@northeastern.edu**
 
