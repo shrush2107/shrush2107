@@ -11,7 +11,7 @@
 - 🎓 MS in Computer Science at Northeastern University  
 - 🌱 Currently diving into **NLP, Generative AI, and LLMs**  
 - 💡 Passionate about **data storytelling**, **interactive dashboards**, and **data-driven decision making**  
-- 📫 Reach me at **agarwal.shrus@northeastern.edu**  
+- 📫 Reach me at **shrushagarwal@gmail.com**  
 - ☕ Fun fact: I can make latte art!
 
 
