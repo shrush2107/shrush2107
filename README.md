@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrushti Agarwal</h1>
-<h3 align="center">MSCS Student | Aspiring Data Analyst & Visualization Enthusiast 📊</h3>
+<h3 align="center">MSCS Student | Business Intelligence and Analytics professional with experience in e-commerce and finance</h3>
 
 <p align="center">
 🌐 Exploring data to uncover insights and build intelligent systems using modern analytical tools and technologies.
@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 - 🎓 MS in Computer Science at Northeastern University  
-- 🌱 Currently diving into **NLP, Generative AI, and LLMs**  
+- 🌱 Currently diving into **ETL/ELT, Data Modeling, DBT(data build tool)**  
 - 💡 Passionate about **data storytelling**, **interactive dashboards**, and **data-driven decision making**  
-- 📫 Reach me at **shrushagarwal@gmail.com**  
+- 📫 Reach me at **shrushagarwalsa@gmail.com**  
 - ☕ Fun fact: I can make latte art!
 
 
@@ -69,15 +69,16 @@
 
 | 🗂️ Project | 📄 Description | 🧰 Tools & Techniques | 🔗 Links |
 |------------|----------------|------------------------|----------|
-| **📌 SQL Case Study** | Solved 8 end-to-end SQL case studies across various business domains healthcare, retail, ecommerce, finance. | PostgreSQL, Advanced SQL, CTEs, Aggregations, Window Functions, Joins | Work In Progress [📂 Repo](https://github.com/shrush2107/SQL-Case-Study) |
+| **📌 SQL Case Study** | Solved 4 SQL case studies across various business domains healthcare, retail, ecommerce, finance. | PostgreSQL, Advanced SQL, CTEs, Aggregations, Window Functions, Joins | [📂 Repo](https://github.com/shrush2107/SQL-Case-Study) |
 | **📊 Stack Overflow 2024 Developer Survey** | Performed exploratory analysis on developer trends, most-used tools, and employment insights using the latest Stack Overflow data. | Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook | [📂 Repo](https://github.com/shrush2107/Exploring-StackOverFlow-Data) |
-| **🚢 Titanic Survival Prediction** | Conducted EDA to identify key features, handled missing data, and applied classification models to predict passenger survival. | Feature Engineering, Pandas, Seaborn, Scikit-learn, Classification Algorithms | [📂 Repo](https://github.com/shrush2107/Survived_or_Not) |
-| **🩺 Diabetes Prediction (BRFSS)** | Built a supervised ML pipeline on public health survey data with preprocessing, oversampling (SMOTE), and hyperparameter tuning for model optimization. | Python, Scikit-learn, Data Cleaning and Wrangling, Feature Engineering, PCA, Hyperparameter Tunning, Oversampling(SMOTE, ADASYN) | [📂 Repo](https://github.com/shrush2107/Diabetes_Prediction_Using_BRFSS_Data) |
+| **🩺 Diabetes Peredictive Analysis and Modeling** | Built a supervised ML pipeline on public health survey data with preprocessing, oversampling (SMOTE), and hyperparameter tuning for model optimization. | Python, Scikit-learn, Data Cleaning and Wrangling, Feature Engineering, PCA, Hyperparameter Tunning, Oversampling(SMOTE, ADASYN) | [📂 Repo](https://github.com/shrush2107/Diabetes_Prediction_Using_BRFSS_Data) |
 | **👥 Customer Segmentation** | Performed analysis to segment users into behavioral clusters, and applied classification to predict high-value segments. | Clusterin (K-Means), Elbow Method, PCA, Supervised Machine learning, Pandas, Seaborn | [📂 Repo](https://github.com/shrush2107/Customer_Segmentation) |
-| **💬 Sentiment Analysis on Reviews** | Cleaned raw text data, performed tokenization, sentiment scoring, and polarity classification on product/user reviews. |  |  |
-| **📈 Target Sales Analysis – Tableau** | Designed a comprehensive dashboard using synthetic retail data (2020–2023), featuring dynamic filters, calculated fields, parameters, and KPI tracking. | Tableau, Filters, Parameters, Tooltips, Time Series Analysis, Calculated fields | [📊 Dashboard]( https://public.tableau.com/app/profile/shrushti.agarwal/viz/TargetStoreDashboard/SalesDashboard) • [📂 Repo](https://github.com/shrush2107/Target_Sales_Analysis_Using_Tableau) |
-| **📉 Churn Prediction in Excel** | Created a churn prediction model using Excel functions, conditional logic, and data visualization through pivot charts and dashboards. | Excel, VLOOKUP, IF statements, Pivot Charts, Data Validation |  |
-| **📦 Demand Forecasting** | Applied time-series analysis to forecast product demand using statistical modeling and seasonal decomposition. |  | |
+| **📈 Target Sales Analysis** | Designed a comprehensive dashboard using synthetic retail data (2020–2023), featuring dynamic filters, calculated fields, parameters, and KPI tracking. | Tableau, Filters, Parameters, Tooltips, Time Series Analysis, Calculated fields | [📊 Dashboard]( https://public.tableau.com/app/profile/shrushti.agarwal/viz/TargetStoreDashboard/SalesDashboard) • [📂 Repo](https://github.com/shrush2107/Target_Sales_Analysis_Using_Tableau) |
+| **🚚 Ecommerce Supply Chain Analysis** | The project builds a scalable data pipeline for supply chain finance analytics. Streaming data from transactions is ingested via Kafka and stored in Google Cloud Storage. Spark batch jobs clean and transform it into fact and dimension tables in BigQuery, enabling real-time insights and business intelligence reporting through Metabase | Docker, Apache Kafka, Apache Spark, Mage, PostgreSQL, Google Cloud Storage, BigQuery, DBT, Metabase, Terraform, Bronze-Silver-Gold architecture, Real-time and batch processing, OLAP star schema, Data quality and governance, Scalable modular pipelines | [📂 Repo](https://github.com/shrush2107/Ecommerce_Supply_Chain_Analysis) |
+
+
+
+
 
 
 ### 🔗 Connect with Me
